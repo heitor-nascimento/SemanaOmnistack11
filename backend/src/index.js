@@ -1,5 +1,4 @@
 const express = require('express');  // importar o express
-//express foi instalado utilizando o comando npm install express na pasta backend do projeto
 const routes = require('./routes');
 const cors = require('cors');
 
